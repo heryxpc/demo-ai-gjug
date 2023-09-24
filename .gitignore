@@ -1,0 +1,45 @@
+### VS Code ###
+.vscode/
+
+# Compiled output
+/target/
+/bin/
+/build/
+/out/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Java-specific
+*.class
+
+# Python-specific
+__pycache__/
+**/venv/
+*.pyc
+
+# JavaScript-specific
+node_modules/
